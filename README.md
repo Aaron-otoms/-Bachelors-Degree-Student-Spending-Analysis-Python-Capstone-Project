@@ -28,3 +28,6 @@ Performed correlation analysis between financial aid and monthly income
 - The most preferred payment method is Mobile App, followed by Credit/Debit Card
 ## 📎 Documentation
 See the full project documentation here for detailed methodology, recommendations, and conclusions.
+
+<img width="537" height="502" alt="python analysis 4" src="https://github.com/user-attachments/assets/006707b7-55f7-42b3-8915-e37575ae1b80" />
+
